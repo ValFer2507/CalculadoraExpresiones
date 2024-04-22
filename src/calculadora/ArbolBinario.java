@@ -49,7 +49,7 @@ public class ArbolBinario {
     }
     public String asignaValores(Nodo n) {
         if (n != null) {
-            mostrarPostorden(n.izquierdo);
+            //mostrarPostorden(n.izquierdo);
         }
         return "";
     }

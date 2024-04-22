@@ -160,7 +160,6 @@ public class Postfijo {
                 matriz[fila][col] = (String) tbl.getValueAt(fila, col);
             }
         }
-
     }
 
     public static ArbolBinario getArbol() {
